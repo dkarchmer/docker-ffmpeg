@@ -9,7 +9,7 @@ docker build -t <imageName> .
 
 ### To pull and run from hub.docker.com
 
-Docker Hub: https://registry.hub.docker.com/u/ampervue/ffmpeg/
+Docker Hub: https://hub.docker.com/r/ampervue/ffmpeg
 
 Source and example: https://github.com/ampervue/docker-ffmpeg
 
